@@ -14,5 +14,11 @@ A web app to manage bookings, financial data, discounts distribution, customer r
 4. Node.js
 5. Redux
 
+#### Features:
+- Online payment
+- Secure passwords storage with hashing
+- 2-step authentication
+- Image upload, storage and deletion
+
 #### Demo video of current progress:
 https://youtu.be/_Q1ilVLzdgM
