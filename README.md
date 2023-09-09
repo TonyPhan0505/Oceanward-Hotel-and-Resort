@@ -19,6 +19,7 @@ A web app to manage bookings, financial data, discounts distribution, customer r
 - Secure passwords storage with hashing
 - 2-step authentication
 - Image upload, storage and deletion
+- Time conflicts detection
 
 #### Demo video of current progress:
 https://youtu.be/_Q1ilVLzdgM
