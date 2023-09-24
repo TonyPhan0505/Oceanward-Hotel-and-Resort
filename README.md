@@ -49,7 +49,7 @@ A web app to manage bookings, finance, discounts distribution, customer relation
 
 
 
-##### 6. Recover password with 2 step verification:
+##### 6. Recover password with 2-step verification:
 ![2StepVerification](https://github.com/TonyPhan0505/Oceanward-Hotel-and-Resort/assets/87828913/de534e87-1fcc-4c82-ad0d-92723b57975c)
 
 
