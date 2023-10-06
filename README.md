@@ -5,7 +5,7 @@ A web app to manage bookings, finance, discounts distribution, customer relation
 -> Hidden
 
 #### Status: 
-+) ###in-progress
+#####+)in-progress
 
 #### Tech-stack: 
 1. React
