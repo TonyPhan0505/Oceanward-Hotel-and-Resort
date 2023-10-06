@@ -58,5 +58,11 @@ A web app to manage bookings, finance, discounts distribution, customer relation
 ![staffLogin](https://github.com/TonyPhan0505/Oceanward-Hotel-and-Resort/assets/87828913/3d0c7db9-fac4-4194-86f3-7af7a5a56b70)
 
 
+##### 8. Client's dashboard page:
+![Screenshot 2023-10-05 at 6 16 29 PM](https://github.com/TonyPhan0505/Oceanward-Web-App/assets/87828913/420c7742-4e4c-4a41-a2e3-21e61287da35)
+![Screenshot 2023-10-05 at 6 16 38 PM](https://github.com/TonyPhan0505/Oceanward-Web-App/assets/87828913/9963471f-ae8c-46dc-bcba-bd5a80f1484d)
+
+
+
 #### Demo video of current progress:
 https://youtu.be/_Q1ilVLzdgM
