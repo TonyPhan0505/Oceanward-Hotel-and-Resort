@@ -8,11 +8,12 @@ A web app to manage bookings, finance, discounts distribution, customer relation
 ### +) in-progress
 
 #### Tech-stack: 
-1. React
-2. MongoDB
-3. Express.js
+1. React: to implement user interface.
+2. MongoDB: to store text data. I use Mongoose to send and retrieve data to and from MongoDB.
+3. Express.js: to implement controllers, routes, middleware.
 4. Node.js
-5. Redux
+5. Redux: to manage around 100 app states.
+6. Cloudinary: to store images.
 
 #### Features:
 - Online payment
