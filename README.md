@@ -16,11 +16,13 @@ A web app to manage bookings, finance, discounts distribution, customer relation
 6. Cloudinary: to store images.
 
 #### Features:
-- Online payment
-- Secure passwords storage with hashing
-- 2-step authentication
-- Image upload, storage and deletion
-- Time conflicts detection
+- Online payment.
+- Secure passwords storage with hashing.
+- Self-implemented 2-step authentication.
+- Self-implemented 2-step password recovery.
+- Image upload, storage and deletion.
+- Time conflicts detection.
+- Instant check-in with QR-code.
 
 ### Overview of current progress:
 ## 1. Client sign in and sign up:
