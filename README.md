@@ -17,14 +17,14 @@ in-progress.
 
 ## Features:
 - Online payment: in-progress.
-  
+----------------------------------
 - Secure passwords storage with hashing: completed.
 - Self-implemented 2-step authentication: completed.
 - Self-implemented 2-step password recovery: completed.
 - Image upload, storage and deletion: completed.
 - Time conflicts detection: completed.
 - Staff account creation for admins: completed.
-  
+----------------------------------
 - Instant check-in with QR-code: to-do.
 - Profile management: to-do.
 - Discount codes distribution: to-do.
