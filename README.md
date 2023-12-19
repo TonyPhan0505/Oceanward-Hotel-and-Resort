@@ -2,10 +2,10 @@
 A web app to manage bookings, finance, discounts distribution, customer relationship and on-campus services for a hotel in Vung Tau, Vietnam.
 
 ## Source Code:
--> Hidden
+Hidden.
 
 ## Status: 
-### +) in-progress
+in-progress.
 
 ## Tech-stack: 
 1. React: to implement user interface.
