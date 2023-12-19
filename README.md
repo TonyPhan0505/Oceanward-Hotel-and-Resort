@@ -24,7 +24,7 @@ A web app to manage bookings, finance, discounts distribution, customer relation
 - Time conflicts detection.
 - Instant check-in with QR-code.
 
-### Overview of current progress:
+### Screenshots of client view:
 ## 1. Client sign in and sign up:
 ![clientSignUp](https://github.com/TonyPhan0505/Oceanward-Hotel-and-Resort/assets/87828913/0b141ac0-a1c3-4fc4-9dce-616d159fbef7)
 ![loginSection](https://github.com/TonyPhan0505/Oceanward-Hotel-and-Resort/assets/87828913/a8f575f7-fc30-4592-94e1-81929e1ea09d)
