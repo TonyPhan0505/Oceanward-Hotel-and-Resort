@@ -67,8 +67,5 @@ A web app to manage bookings, finance, discounts distribution, customer relation
 ![Screenshot 2023-10-21 at 4 32 48 PM](https://github.com/TonyPhan0505/Oceanward-Web-App/assets/87828913/16f0b509-74fe-4980-9200-0a118dadae3d)
 ![Screenshot 2023-10-21 at 4 33 22 PM](https://github.com/TonyPhan0505/Oceanward-Web-App/assets/87828913/8138d7e0-5a33-4216-810e-c2d1872cc1d8)
 
-
-
-
-#### Demo video of current progress:
-https://youtu.be/_Q1ilVLzdgM
+## 9. Booking pop-up:
+![Screenshot 2023-12-19 at 1 54 06 PM](https://github.com/TonyPhan0505/Oceanward-Web-App/assets/87828913/908da497-a8c3-45f4-9dfe-f920025f3aa1)
