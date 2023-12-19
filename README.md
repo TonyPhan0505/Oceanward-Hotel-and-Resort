@@ -1,13 +1,13 @@
 # Oceanward-Hotel-and-Resort
 A web app to manage bookings, finance, discounts distribution, customer relationship and on-campus services for a hotel in Vung Tau, Vietnam.
 
-#### Source Code:
+## Source Code:
 -> Hidden
 
 ## Status: 
 ### +) in-progress
 
-#### Tech-stack: 
+## Tech-stack: 
 1. React: to implement user interface.
 2. MongoDB: to store text data. I use Mongoose to send and retrieve data to and from MongoDB.
 3. Express.js: to implement controllers, routes, middleware.
@@ -15,7 +15,7 @@ A web app to manage bookings, finance, discounts distribution, customer relation
 5. Redux: to manage around 100 app states.
 6. Cloudinary: to store images.
 
-#### Features:
+## Features:
 - Online payment.
 - Secure passwords storage with hashing.
 - Self-implemented 2-step authentication.
