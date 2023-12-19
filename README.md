@@ -16,13 +16,22 @@ in-progress.
 6. Cloudinary: to store images.
 
 ## Features:
-- Online payment.
-- Secure passwords storage with hashing.
-- Self-implemented 2-step authentication.
-- Self-implemented 2-step password recovery.
-- Image upload, storage and deletion.
-- Time conflicts detection.
-- Instant check-in with QR-code.
+- Online payment: in-progress.
+  
+- Secure passwords storage with hashing: completed.
+- Self-implemented 2-step authentication: completed.
+- Self-implemented 2-step password recovery: completed.
+- Image upload, storage and deletion: completed.
+- Time conflicts detection: completed.
+- Staff account creation for admins: completed.
+  
+- Instant check-in with QR-code: to-do.
+- Profile management: to-do.
+- Discount codes distribution: to-do.
+- Ordering room service: to-do.
+- Staff accounts management for admins: to-do.
+- Financial statistics for admins: to-do.
+- Client accounts management for staff and admins: to-do.
 
 ## Screenshots of client view:
 ### 1. Client sign in and sign up:
