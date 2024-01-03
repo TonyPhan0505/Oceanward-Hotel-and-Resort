@@ -33,6 +33,10 @@ in-progress.
 - Financial statistics for admins: to-do.
 - Client accounts management for staff and admins: to-do.
 
+## Demo video:
+https://youtu.be/RsNugDFDuzg?si=XXZwF5G4tFnJ6mHd
+
+
 ## Screenshots of client view:
 ### 1. Client sign in and sign up:
 ![clientSignUp](https://github.com/TonyPhan0505/Oceanward-Hotel-and-Resort/assets/87828913/0b141ac0-a1c3-4fc4-9dce-616d159fbef7)
