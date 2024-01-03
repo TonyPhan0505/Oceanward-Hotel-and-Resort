@@ -12,7 +12,7 @@ in-progress.
 2. MongoDB: to store text data. I use Mongoose to send and retrieve data to and from MongoDB.
 3. Express.js: to implement controllers, routes, middleware.
 4. Node.js
-5. Redux: to manage around 100 app states.
+5. Redux toolkit and saga: to manage more than 100 app states.
 6. Cloudinary: to store images.
 
 ## Features:
