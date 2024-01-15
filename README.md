@@ -2,7 +2,7 @@
 A web app to manage bookings, finance, discounts distribution, customer relationship and on-campus services for a hotel in Vung Tau, Vietnam.
 
 ## Source Code:
-Hidden.
+https://github.com/Oceanward-Hotel-Resort/Oceanward-Web-App
 
 ## Status: 
 in-progress.
