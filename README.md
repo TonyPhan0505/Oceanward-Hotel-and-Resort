@@ -1,6 +1,9 @@
 # Oceanward-Hotel-and-Resort
 A web app to manage bookings, finance, discounts distribution, customer relationship and on-campus services for a hotel in Vung Tau, Vietnam.
 
+## Source code:
+Hidden.
+
 ## Demo video:
 https://youtu.be/RsNugDFDuzg?si=XXZwF5G4tFnJ6mHd
 
