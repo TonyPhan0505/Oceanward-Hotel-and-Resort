@@ -1,6 +1,9 @@
 # Oceanward-Hotel-and-Resort
 A web app to manage bookings, finance, discounts distribution, customer relationship and on-campus services for a hotel in Vung Tau, Vietnam.
 
+## Demo video:
+https://youtu.be/RsNugDFDuzg?si=XXZwF5G4tFnJ6mHd
+
 ## Status: 
 in-progress.
 
@@ -29,10 +32,6 @@ in-progress.
 - Staff accounts management for admins: to-do.
 - Financial statistics for admins: to-do.
 - Client accounts management for staff and admins: to-do.
-
-## Demo video:
-https://youtu.be/RsNugDFDuzg?si=XXZwF5G4tFnJ6mHd
-
 
 ## Screenshots of client view:
 ### 1. Client sign in and sign up:
