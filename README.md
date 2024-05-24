@@ -27,10 +27,8 @@ in-progress.
 - Time conflicts detection: completed.
 - Staff account creation for admins: completed.
 ---
-- Instant check-in with QR-code: to-do.
-- Profile management: to-do.
+- Profile management: in-progress.
 - Discount codes distribution: to-do.
-- Ordering room service: to-do.
 - Staff accounts management for admins: to-do.
 - Financial statistics for admins: to-do.
 - Client accounts management for staff and admins: to-do.
