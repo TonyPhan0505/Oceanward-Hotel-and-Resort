@@ -24,7 +24,8 @@ in-progress.
 - Self-implemented 2-step authentication: completed.
 - Self-implemented 2-step password recovery: completed.
 - Image upload, storage and deletion: completed.
-- Time conflicts detection: completed.
+- Multi-language support: completed.
+- Finding available rooms with no time conflicts: completed.
 - Staff account creation for admins: completed.
 ---
 - Profile management: in-progress.
