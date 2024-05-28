@@ -27,8 +27,8 @@ in-progress.
 - Multi-language support: completed.
 - Finding available rooms with no time conflicts: completed.
 - Staff account creation for admins: completed.
+- Profile management: completed.
 ---
-- Profile management: in-progress.
 - Discount codes distribution: to-do.
 - Staff accounts management for admins: to-do.
 - Financial statistics for admins: to-do.
