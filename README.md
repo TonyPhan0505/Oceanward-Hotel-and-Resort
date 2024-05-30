@@ -16,23 +16,22 @@ in-progress.
 3. Express.js: to implement controllers, routes, middleware.
 4. Node.js
 5. Redux toolkit and saga: to manage more than 100 app states.
-6. Cloudinary: to store images.
 
 ## Features:
+---
 - Online payment: completed.
+- Automatic refunding: completed.
 - Secure passwords storage with hashing: completed.
 - Self-implemented 2-step authentication: completed.
 - Self-implemented 2-step password recovery: completed.
-- Image upload, storage and deletion: completed.
-- Multi-language support: completed.
-- Finding available rooms with no time conflicts: completed.
+- Time conflicts detection: completed.
 - Staff account creation for admins: completed.
 - Profile management: completed.
 ---
+- Booking management for staff and admin: to-do.
 - Discount codes distribution: to-do.
 - Staff accounts management for admins: to-do.
 - Financial statistics for admins: to-do.
-- Client accounts management for staff and admins: to-do.
 
 ## Screenshots of client view:
 ### 1. Landing page:
