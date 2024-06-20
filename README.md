@@ -27,11 +27,11 @@ in-progress.
 - Time conflicts detection: completed.
 - Staff account creation for admins: completed.
 - Profile management: completed.
+- Booking management for staff and admin: completed.
+- Discount codes distribution: completed.
+- Staff accounts management for admins: completed.
 ---
-- Booking management for staff and admin: to-do.
-- Discount codes distribution: to-do.
-- Staff accounts management for admins: to-do.
-- Financial statistics for admins: to-do.
+- Financial statistics for staff and admins: to-do.
 
 ## Screenshots of client view:
 ### 1. Landing page:
