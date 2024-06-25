@@ -26,12 +26,10 @@ in-progress.
 - Self-implemented 2-step password recovery: completed.
 - Time conflicts detection: completed.
 - Staff account creation for admins: completed.
-- Profile management: completed.
+- Profile management for client, admin and staff: completed.
 - Booking management for staff and admin: completed.
 - Discount codes distribution: completed.
 - Staff accounts management for admins: completed.
----
-- Financial statistics for staff and admins: to-do.
 
 ## Screenshots of client view:
 ### 1. Landing page:
