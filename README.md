@@ -8,7 +8,10 @@ Hidden.
 https://youtu.be/RsNugDFDuzg?si=XXZwF5G4tFnJ6mHd
 
 ## Status: 
-deploying.
+Deployed.
+
+## Live link:
+https://oceanward-hotels-and-resort.netlify.app
 
 ## Tech-stack: 
 1. React: to implement user interface.
