@@ -59,3 +59,22 @@ Deployed.
 
 ### 5. Add and delete payment method, edit profile information:
 <img width="1436" alt="Screenshot 2024-05-24 at 9 58 22 PM" src="https://github.com/TonyPhan0505/Oceanward-Web-App/assets/87828913/df31a8e3-fe77-43b4-8462-47c396864d0b">
+
+### 6. Admin login and sign up:
+<img width="1440" alt="admin login" src="https://github.com/TonyPhan0505/Oceanward-Web-App/assets/87828913/7d380fd6-63e7-4837-91cd-aab07f01c9e8">
+<img width="1440" alt="admin sign up" src="https://github.com/TonyPhan0505/Oceanward-Web-App/assets/87828913/ad50ec89-6396-41cf-b1ce-77bfc9be99df">
+
+### 7. Admin and staff dashboard:
+<img width="1440" alt="admin and staff dashboard" src="https://github.com/TonyPhan0505/Oceanward-Web-App/assets/87828913/126d3dab-33dd-432d-a3ff-a8df68500cce">
+
+### 8. Admin profile management:
+<img width="1437" alt="admin profile page" src="https://github.com/TonyPhan0505/Oceanward-Web-App/assets/87828913/2f27a86d-2a36-410c-bd11-4e45ae3d409a">
+
+### 9. Discount management:
+<img width="1440" alt="discount management page" src="https://github.com/TonyPhan0505/Oceanward-Web-App/assets/87828913/05c29ba3-6eb7-4fad-bd7c-ff6ecabc3852">
+
+### 10. Staff management:
+<img width="1440" alt="staff management page" src="https://github.com/TonyPhan0505/Oceanward-Web-App/assets/87828913/69f50211-f7a9-48c5-8b4d-28efe436e20c">
+
+### 11. Staff login:
+<img width="1440" alt="staff login" src="https://github.com/TonyPhan0505/Oceanward-Web-App/assets/87828913/840f69b6-8e01-42a1-a68f-d1e911b820d4">
