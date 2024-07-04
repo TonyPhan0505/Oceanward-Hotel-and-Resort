@@ -4,14 +4,14 @@ A web app to manage bookings, finance, discounts distribution, customer relation
 ## Source code:
 Hidden.
 
+## Live link:
+https://oceanward-hotels-and-resort.netlify.app
+
 ## Demo video:
-https://youtu.be/RsNugDFDuzg?si=XXZwF5G4tFnJ6mHd
+https://youtu.be/RMNc4z3JK-o?si=9pOB2EFT6rrKNyuz
 
 ## Status: 
 Deployed.
-
-## Live link:
-https://oceanward-hotels-and-resort.netlify.app
 
 ## Tech-stack: 
 1. React: to implement user interface.
