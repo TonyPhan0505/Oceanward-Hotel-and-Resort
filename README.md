@@ -11,7 +11,7 @@ https://oceanward-hotels-and-resort.netlify.app
 https://youtu.be/RMNc4z3JK-o?si=9pOB2EFT6rrKNyuz
 
 ## Status: 
-Deployed.
+Fully functional and live.
 
 ## Tech-stack: 
 1. React: to implement user interface.
