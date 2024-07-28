@@ -22,6 +22,7 @@ Fully functional and live.
 
 ## Features:
 ---
+- Authentication and authorization with JWT.
 - Online payment: completed.
 - Automatic refunding: completed.
 - Secure passwords storage with hashing: completed.
